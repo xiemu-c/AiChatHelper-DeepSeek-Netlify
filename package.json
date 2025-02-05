@@ -1,0 +1,9 @@
+{
+    "name": "AiChatHelper-DeepSeek-Netlify",
+    "version": "1.0.0",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "@netlify/edge-functions": "2.2.0"
+    }
+  }
